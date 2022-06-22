@@ -1,0 +1,30 @@
+.title{
+    background-color: dimgray;
+    padding-right: 40px;
+    margin-left: 5%;
+}
+.image{
+    margin-left: 5%;     
+}
+h2{
+    font-size: 70px;
+    color:darkblue;
+    margin-left: 5%;
+}
+h3{
+    font-size: 30px;
+}
+li{
+    margin-left: 5%; 
+    font-size: 25px; 
+}
+.introduce{
+    font-size: 30px;
+}
+.send_message{
+    margin-left: 5%; 
+}
+button{
+    font-size: 15px;
+    margin-left: 10px;
+}
